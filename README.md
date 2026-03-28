@@ -1,4 +1,4 @@
-# 🔥 2D Heat Conduction Solver using Numerical Methods
+# 2D Heat Conduction Solver using Numerical Methods
 
 This project implements a **2D steady-state heat conduction solver** using numerical methods in Python. It supports multiple boundary conditions and compares different iterative techniques for solving the temperature distribution.
 
